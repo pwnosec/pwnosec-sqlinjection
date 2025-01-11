@@ -43,4 +43,4 @@ python3 main.py
 ```
 5. Melihat Hasil: Hasil pengujian akan disimpan dalam file `results.json`.
 
-
+[![asciicast](https://asciinema.org/a/0npTBsLOfiRles1wGuEKzmpvt.svg)](https://asciinema.org/a/0npTBsLOfiRles1wGuEKzmpvt)
